@@ -1,40 +1,9 @@
-## 快速上手
-
-### 1. 开发
-
-```
-npm install
-npm run start
-```
-
-### 2. 构建
-
-```
-npm run build
-npm run release
-```
-
-### 3. 调试
-
-```
-npm run watch
-```
-### 4. 代码规范化配置
-代码规范化可以帮助开发者在git commit前进行代码校验、格式化、commit信息校验
-
-使用前提：必须先关联git
-
-macOS or Linux
-```
-sh husky.sh
-```
-
-windows
-```
-./husky.sh
-```
-
-
-## 了解更多
-
-你可以通过我们的[官方文档](https://iot.mi.com/vela/quickapp)熟悉和了解快应用。
+# StardewProfits
+星露谷作物利润计算器，移植到VelaOs。
+## 改自
+[StardewProfits](https://github.com/Thorinair/Stardew-Profits)
+[StardewProfits中文版](https://github.com/huangyue12120/Stardew-Profits-CN)
+## 跳票这一块
+千里之行，始于建项。做不做得完另说。
+## 许可证
+GPL-3.0
